@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['MongoDB', 'Express', 'React', 'Node','CSS'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/ZabdielV/front-end-pokemon',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['JavaScript','Three Js'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/ZabdielV/proyectoFinal-graficosComputacionales',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/3.png',
       tags: ['React', 'Next Js','Postgresql','TypeScript'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/ZabdielV/NextJs-2022-Task-Manager-Typescript',
     id: 2,
   }
 ];
