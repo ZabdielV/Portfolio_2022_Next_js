@@ -26,6 +26,15 @@ export const ImageContainer = styled.div`
 export const MainImage = styled.img`
   width: 100%;
 `
+export const List2 = styled.ul`
+
+ul {
+  margin-left: 20px;
+  li {
+    list-style: circle;
+  }
+}
+`
 
 export const List = styled.ul`
   list-style-type: none;

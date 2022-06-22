@@ -10,10 +10,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
          Hy, <br />
-          This is my personal portfolio
+        My name is Zabdiel and this is my portfolio
         </SectionTitle>
         <SectionText>
-        This portfolio shows some of my personal and academic projects, skills and info about me.
+        Student Software Engineer
         </SectionText>
 
       {/* <Button onClick={props.handleClick}>Learn More</Button>  */}
