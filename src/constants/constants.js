@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Next js CRUD with postgresql and TypeSCript',
-    description: "This was a personas project where i did a task manager using postgresql as database in order to have CRUD operations, i also used TypeScript.",
+    description: "This was a personal project where i did a task manager using postgresql as database in order to have CRUD operations, i also used TypeScript.",
       image: '/images/3.png',
       tags: ['React', 'Next Js','Postgresql','TypeScript'],
     source: 'https://google.com',
