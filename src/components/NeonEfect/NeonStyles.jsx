@@ -9,9 +9,8 @@ height: 100vh;
 width:73vw;
 max-width: 100%;
 margin: 0 10%; 
-flex-direction: row-reverse;
 align-items: center;
-justify-content: flex-start;
+justify-content: center;
 
 @media ${(props) => props.theme.breakpoints.sm} {
    padding: ${(props) => props.nopadding ? "0" : "16px 16px 0" } ;
