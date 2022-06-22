@@ -29,15 +29,23 @@ const Header = () =>  (
         <Link href="#about">
           <NavLink>About Me</NavLink>
         </Link>
+      </li>
+      <li>
+        <Link href="#contac">
+          <NavLink>Contac</NavLink>
+        </Link>
       </li>        
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/ZabdielV">
           <AiFillGithub size="3rem" />
         </SocialIcons>
-        <SocialIcons href="https://google.com">
+        <SocialIcons href="https://www.linkedin.com/in/zabdiel-valent%C3%ADn-gardu%C3%B1o-vivanco-bb6836207/">
           <AiFillLinkedin size="3rem" />
         </SocialIcons>
+{/*         <SocialIcons href="https://google.com">
+            <AiFillInstagram size="3rem" />
+        </SocialIcons> */}
       </Div3>
     </Container>
 );

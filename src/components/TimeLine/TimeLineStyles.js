@@ -32,6 +32,20 @@ export const CarouselContainer = styled.ul`
     margin-bottom: 8px;
   }
 `
+export const ImgCircle=styled.div`
+display:flex;
+justify-content: center;
+
+img{
+    width: 100%;
+    border-radius: 50%;
+    height: 100%;
+    object-fit: cover;
+}
+
+`
+
+
 export const CarouselMobileScrollNode = styled.div`
   @media ${props => props.theme.breakpoints.sm} {
     display: flex;
