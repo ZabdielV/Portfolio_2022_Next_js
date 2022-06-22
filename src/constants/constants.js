@@ -13,7 +13,7 @@ export const projects = [
     description:"This was another University project, i used a librery called three js which allows to use 3D resources.",
     image: '/images/2.png',
     tags: ['JavaScript','Three Js'],
-    source: 'https://google.com',
+    source: 'https://profound-cannoli-e68a91.netlify.app',
     visit: 'https://github.com/ZabdielV/proyectoFinal-graficosComputacionales',
     id: 1,
   },
