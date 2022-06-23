@@ -32,7 +32,7 @@ const Header = () =>  (
       </li>
       <li>
         <Link href="#contac">
-          <NavLink>Contac</NavLink>
+          <NavLink>Contact</NavLink>
         </Link>
       </li>        
     </Div2>
