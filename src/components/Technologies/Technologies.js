@@ -43,7 +43,6 @@ const Technologies = () =>  (
             <ul>
               <li>Express JS</li>
               <li>Next JS</li>
-              <li>PHP</li>
               <li>Node JS</li>
             </ul>
             </List2>
