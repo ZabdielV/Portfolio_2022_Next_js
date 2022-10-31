@@ -25,6 +25,24 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://github.com/ZabdielV/NextJs-2022-Task-Manager-Typescript',
     id: 2,
+  },
+  {
+    title: 'Android app made with kotlin and Firebase',
+    description: "I was responsable for creating the main page, assets, and the structure of the database.",
+      image: '/images/5.png',
+      tags: ['Kotlin', 'Android Studio','Mobile','Firebase'],
+    source: 'https://google.com',
+    visit: 'https://github.com/JulioLugo9/GestorDeViajes',
+    id: 3,
+  },
+  {
+    title: 'Android videogame made with java and libgdx library',
+    description: "I was responsable for creating assets and code. This app was lanched in playstore",
+      image: '/images/6.png',
+      tags: ['Java', 'Android Studio','Mobile'],
+    source: 'https://play.google.com/store/apps/details?id=mx.rrr.game&hl=es_MX',
+    visit: 'https://github.com/ZabdielV/RunRamRun',
+    id: 4,
   }
 ];
 
