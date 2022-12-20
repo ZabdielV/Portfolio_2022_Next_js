@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Spring Boot CRUD app with JPA',
-    description: "This was a small project that i made to lean a new tecnology like spring boot with JPA. I implemented Controller, Service and Repository arquitecture to handle each request.",
+    description: "This was a small project that i made to learn a new technology like spring boot with JPA. I implemented Controller, Service and Repository architecture to handle each request.",
       image: '/images/7.png',
       tags: ['Java', 'IntelliJ','Spring boot','JPA','personal project'],
     source: '',
