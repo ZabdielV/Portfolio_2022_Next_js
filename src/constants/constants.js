@@ -48,7 +48,7 @@ export const projects = [
     title: 'Spring Boot CRUD app with JPA',
     description: "This was a small project that i made to lean a new tecnology like spring boot with JPA. I implemented Controller, Service and Repository arquitecture to handle each request.",
       image: '/images/7.png',
-      tags: ['Java', 'IntelliJ','Spring boot','JPA'],
+      tags: ['Java', 'IntelliJ','Spring boot','JPA','personal project'],
     source: '',
     visit: 'https://github.com/ZabdielV/Personal-Spring-Boot-Project-CRUD-PosgreSQL',
     id: 5
