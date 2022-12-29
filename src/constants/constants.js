@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Android videogame made with java and libgdx library',
-    description: "I was responsable for creating assets and code. This app was lanched in playstore",
+    description: "I was responsable for creating assets and code. This app was lanched in playstore.",
       image: '/images/6.png',
       tags: ['Java', 'Android Studio','Mobile','school project'],
     source: 'https://play.google.com/store/apps/details?id=mx.rrr.game&hl=es_MX',
@@ -46,11 +46,11 @@ export const projects = [
   },
   {
     title: 'Spring Boot CRUD app with JPA',
-    description: "This was a small project that i made to learn a new technology like spring boot with JPA. I implemented Controller, Service and Repository architecture to handle each request.",
+    description: "This was my first project to learn a new technology like spring boot with JPA. I implemented Controller, Service and Repository architecture to handle each request. The app connects to a database with One-To-many and Many-To-One relations.",
       image: '/images/7.png',
-      tags: ['Java', 'IntelliJ','Spring boot','JPA','personal project'],
+      tags: ['Java','Postgresql', 'IntelliJ','Spring boot','JPA','personal project'],
     source: '',
-    visit: 'https://github.com/ZabdielV/Personal-Spring-Boot-Project-CRUD-PosgreSQL',
+    visit: 'https://github.com/ZabdielV/JPA-app-Postgresql-Students',
     id: 5
   }
 ];

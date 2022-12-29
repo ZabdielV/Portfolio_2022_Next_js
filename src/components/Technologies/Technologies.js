@@ -44,6 +44,7 @@ const Technologies = () =>  (
               <li>Express JS</li>
               <li>Next JS</li>
               <li>Node JS</li>
+              <li>Spring boot (JPA)</li>
             </ul>
             </List2>
           </ListParagraph>
