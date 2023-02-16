@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiZend,DiVisualstudio,DiDatabase } from 'react-icons/di';
+import { DiFirebase, DiReact, DiZend,DiVisualstudio,DiDatabase,DiOnedrive } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List,List2, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -75,9 +75,8 @@ const Technologies = () =>  (
           <List2>
             <ul>
               <li>C#</li>
-              <li>Java</li>
+              <li>Java/Kotlin</li>
               <li>Python</li>
-              <li>Kotlin</li>
             </ul>
             </List2>
           </ListParagraph>
@@ -94,9 +93,25 @@ const Technologies = () =>  (
             <ul>
               <li>MySQL</li>
               <li>Postgresql</li>
-              <li>SQLServer</li>
-              <li>Firebase</li>
               <li>MongoDB</li>
+            </ul>
+            </List2>
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <picture>
+          <DiOnedrive size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>DevOps</ListTitle>
+          <ListParagraph>
+          <List2>
+            <ul>
+              <li>Jenkins</li>
+              <li>Docker</li>
+              <li>Aws</li>
             </ul>
             </List2>
           </ListParagraph>

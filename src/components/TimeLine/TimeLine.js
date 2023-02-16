@@ -16,8 +16,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-     I'm a Software Engineer from Mexico, i'm studying at Tecnologico de Monterrey. I consider myself
-    a passionated person and responsible.
+    I consider myself
+    a passionated person and responsible, open to team work and always learning new technologies.
       </SectionText>
       <ImgCircle>
       <Image

@@ -10,15 +10,15 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
          Hy, <br />
-        My name is Zabdiel and this is my portfolio
+        My name is Zabdiel Valentin and this is my portfolio
         </SectionTitle>
         <SectionText>
-        Student Software Engineer
+        New graduate Computer Systems Engineer
         </SectionText>
 
       {/* <Button onClick={props.handleClick}>Learn More</Button>  */}
       <SectionText>
-        This web was made in Next Js and using Styled Components.
+        This web was made in Next Js and Styled Components.
         <AiFillHeart size="3rem" style={{marginLeft:'10px'}}/>
       </SectionText>
      
