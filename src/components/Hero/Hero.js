@@ -18,7 +18,7 @@ const Hero = (props) => (
 
       {/* <Button onClick={props.handleClick}>Learn More</Button>  */}
       <SectionText>
-        This web was made in Next Js and Styled Components.
+        This web was made with Next Js and Styled Components.
         <AiFillHeart size="3rem" style={{marginLeft:'10px'}}/>
       </SectionText>
      
