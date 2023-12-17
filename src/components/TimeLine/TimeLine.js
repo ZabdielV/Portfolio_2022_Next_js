@@ -16,8 +16,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-    I consider myself
-    a passionated person and responsible, open to team work and always learning new technologies.
+      I love to apply modern software architectures like clean architecture or Domain Driven Design with agile frameworks like SCRUM, I'm also interested in the Cloud and how it works.
+      </SectionText>
+      <SectionText>
+      I'm currently reinforcing my knowledge in Spring Boot, DevOps and Goolang.
       </SectionText>
       <ImgCircle>
       <Image

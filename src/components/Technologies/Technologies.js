@@ -24,9 +24,7 @@ const Technologies = () =>  (
             <ul>
               <li>React JS</li>
               <li>Javascript</li>
-              <li>HTML</li>
-              <li>CSS</li>
-              <li>Boostrap</li>
+              <li>HTML/CSS</li>
             </ul>
             </List2>
           </ListParagraph>
@@ -41,25 +39,9 @@ const Technologies = () =>  (
           <ListParagraph>
           <List2>
             <ul>
-              <li>Express JS</li>
               <li>Next JS</li>
-              <li>Node JS</li>
               <li>Spring boot (JPA)</li>
-            </ul>
-            </List2>
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <picture>
-          <DiZend size="3rem" />
-        </picture>
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-          <List2>
-            <ul>
-             <li>Figma</li>
+              <li>Go (Golang)</li>
             </ul>
             </List2>
           </ListParagraph>
@@ -74,9 +56,9 @@ const Technologies = () =>  (
           <ListParagraph>
           <List2>
             <ul>
-              <li>C#</li>
               <li>Java/Kotlin</li>
-              <li>Python</li>
+              <li>Golang</li>
+              <li>Javascript/Typescript</li>
             </ul>
             </List2>
           </ListParagraph>
@@ -111,7 +93,7 @@ const Technologies = () =>  (
             <ul>
               <li>Jenkins</li>
               <li>Docker</li>
-              <li>Aws</li>
+              <li>AWS (AWS Certified Cloud Practitioner)</li>
             </ul>
             </List2>
           </ListParagraph>
