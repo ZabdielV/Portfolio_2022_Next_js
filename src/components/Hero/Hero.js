@@ -13,7 +13,7 @@ const Hero = (props) => (
         My name is Zabdiel Valentin and this is my portfolio
         </SectionTitle>
         <SectionText>
-        Software Developer | Backend | Computer Systems Engineering |
+        Software Developer | Backend | Computer Systems Engineering
         </SectionText>
 
       {/* <Button onClick={props.handleClick}>Learn More</Button>  */}
