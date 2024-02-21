@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Three JS Videogame',
-    description:"This was another University project, i used a librery called three js which allows to use 3D resources.",
+    description:"This was another University project, I implemented a librery called three js which allows to use 3D resources.",
     image: '/images/2.png',
     tags: ['JavaScript','Three Js','University project'],
     source: 'https://profound-cannoli-e68a91.netlify.app',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Android videogame made with java and libgdx library',
-    description: "I was responsable for creating assets and code. This app was lanched in playstore.",
+    description: "I was responsable for creating assets and code. This app was launched in playstore.",
       image: '/images/6.png',
       tags: ['Java', 'Android Studio','Mobile','University project'],
     source: 'https://play.google.com/store/apps/details?id=mx.rrr.game&hl=es_MX',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Spring Boot CRUD app with JPA',
-    description: "In this personal project I learn spring boot with JPA. I implemented Controller, Service and Repository architecture to handle each request. The app connects to a database with One-To-many and Many-To-One relations.",
+    description: "In this personal project I learned spring boot with JPA. I implemented Controller, Service and Repository architecture to handle each request. The app connects to a database with One-To-many and Many-To-One relations.",
       image: '/images/7.png',
       tags: ['Java','Postgresql', 'IntelliJ','Spring boot','JPA','Personal project'],
     source: '',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Jenkins pipeline with Maven, AWS and Docker',
-    description: "I deploy Jenkins in a docker container, created a Declarative pipeline where I run a basic java app, create a docker image from it, upload it to docker hub, and finally deployed it in aws.",
+    description: "I deployed Jenkins in a docker container, created a Declarative pipeline where I run a basic java app, created a docker image from it, uploaded it to docker hub, and finally deployed it in aws.",
       image: '/images/8.png',
       tags: ['Jenkins','Maven', 'AWS','Docker','Java','DevOps','Personal project'],
     source: '',
