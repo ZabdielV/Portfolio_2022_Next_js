@@ -28,8 +28,8 @@ const Projects = () => (
             </div>
             <UtilityList>
               <ExternalLinks target="_blank" href={p.visit}>Code</ExternalLinks>
-              {i==1 ? <ExternalLinks target="_blank" href={p.source}>Visit</ExternalLinks>:''}
-              {i==4 ? <ExternalLinks target="_blank" href={p.source}>Visit in playstore</ExternalLinks>:''}
+              {p.id==1 ? <ExternalLinks target="_blank" href={p.source}>Visit</ExternalLinks>:''}
+              {p.id==4 ? <ExternalLinks target="_blank" href={p.source}>Visit in playstore</ExternalLinks>:''}
               {/* <ExternalLinks href={p.source}>Source</ExternalLinks> */}
             </UtilityList>
           </BlogCard>

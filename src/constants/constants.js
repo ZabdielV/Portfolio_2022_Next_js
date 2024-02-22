@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Three JS Videogame',
-    description:"This was another University project, I implemented a librery called three js which allows to use 3D resources.",
+    description:"This was another University project. I implemented a librery called three js which allows to use 3D resources.",
     image: '/images/2.png',
     tags: ['JavaScript','Three Js','University project'],
     source: 'https://profound-cannoli-e68a91.netlify.app',
